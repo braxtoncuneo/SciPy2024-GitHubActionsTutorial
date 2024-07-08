@@ -8,8 +8,8 @@ on:
      - main
      - caching
   
-  schedule:
-    - cron: '52 * * * *'
+  #schedule:
+  #  - cron: '52 * * * *'
     
 jobs:
   process:
